@@ -1,0 +1,226 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.28631903,
+          43.69430232
+        ]
+      },
+      "type": "Feature",
+      "id": 1,
+      "properties": {
+        "NOM": "CAPITAINERIE PORT LYMPIA",
+        "SOUS_TYPE": "PORT",
+        "CODE_INSEE": "06088",
+        "TYPE": "TRANSPORT"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.23087129,
+          43.6786307
+        ]
+      },
+      "type": "Feature",
+      "id": 2,
+      "properties": {
+        "NOM": "PORT DE CARRAS",
+        "SOUS_TYPE": "PORT",
+        "CODE_INSEE": "06088",
+        "TYPE": "TRANSPORT"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.28448439,
+          43.69443126
+        ]
+      },
+      "type": "Feature",
+      "id": 3,
+      "properties": {
+        "NOM": "PORT LYMPIA",
+        "SOUS_TYPE": "PORT",
+        "CODE_INSEE": "06088",
+        "TYPE": "TRANSPORT"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.18326722,
+          43.65695169
+        ]
+      },
+      "type": "Feature",
+      "id": 4,
+      "properties": {
+        "NOM": "PORT",
+        "SOUS_TYPE": "PORT",
+        "CODE_INSEE": "06123",
+        "TYPE": "TRANSPORT"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.30771319,
+          43.69753399
+        ]
+      },
+      "type": "Feature",
+      "id": 5,
+      "properties": {
+        "NOM": "PORT ROYAL DE LA DARSE",
+        "SOUS_TYPE": "PORT",
+        "CODE_INSEE": "06159",
+        "TYPE": "TRANSPORT"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.31237863,
+          43.70297406
+        ]
+      },
+      "type": "Feature",
+      "id": 6,
+      "properties": {
+        "NOM": "PORT DE LA SANTE",
+        "SOUS_TYPE": "PORT",
+        "CODE_INSEE": "06159",
+        "TYPE": "TRANSPORT"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.17144174,
+          43.65705544
+        ]
+      },
+      "type": "Feature",
+      "id": 7,
+      "properties": {
+        "NOM": "PORT DU CROS DE CAGNES",
+        "SOUS_TYPE": "PORT",
+        "CODE_INSEE": "06027",
+        "TYPE": "TRANSPORT"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.41378098,
+          43.72519538
+        ]
+      },
+      "type": "Feature",
+      "id": 8,
+      "properties": {
+        "NOM": "PORT DE CAP D'AIL",
+        "SOUS_TYPE": "PORT",
+        "CODE_INSEE": "06032",
+        "TYPE": "TRANSPORT"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.33701957,
+          43.70858813
+        ]
+      },
+      "type": "Feature",
+      "id": 9,
+      "properties": {
+        "NOM": "PORT DE PLAISANCE DE BEAULIEU SUR MER",
+        "SOUS_TYPE": "PORT",
+        "CODE_INSEE": "06011",
+        "TYPE": "TRANSPORT"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.35078211,
+          43.71635174
+        ]
+      },
+      "type": "Feature",
+      "id": 10,
+      "properties": {
+        "NOM": "PORT D'EZE",
+        "SOUS_TYPE": "PORT",
+        "CODE_INSEE": "06059",
+        "TYPE": "TRANSPORT"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.33236184,
+          43.70404976
+        ]
+      },
+      "type": "Feature",
+      "id": 11,
+      "properties": {
+        "NOM": "PORT DES FOURMIS",
+        "SOUS_TYPE": "PORT",
+        "CODE_INSEE": "06011",
+        "TYPE": "TRANSPORT"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.33629495,
+          43.69025279
+        ]
+      },
+      "type": "Feature",
+      "id": 12,
+      "properties": {
+        "NOM": "PORT DE SAINT JEAN CAP FERRAT",
+        "SOUS_TYPE": "PORT",
+        "CODE_INSEE": "06121",
+        "TYPE": "TRANSPORT"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.28913775,
+          43.69361722
+        ]
+      },
+      "type": "Feature",
+      "id": 13,
+      "properties": {
+        "NOM": "GARE MARITIME",
+        "SOUS_TYPE": "PORT",
+        "CODE_INSEE": "06088",
+        "TYPE": "TRANSPORT"
+      }
+    }
+  ]
+}

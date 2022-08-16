@@ -1,16 +1,28 @@
-import { NgModule } from '@angular/core';
-import { BrowserModule } from '@angular/platform-browser';
+import { NgModule } from '@angular/core'
+import { BrowserModule } from '@angular/platform-browser'
 
-import { AppComponent } from './app.component';
+import { MarkerService } from './services/marker.service'
+import { PopupService } from './services/popup.service'
+import { HttpClientModule } from '@angular/common/http'
+
+import { AppComponent } from './app.component'
+import { MapComponent } from './map/map.component'
+import { ShapeService } from './services/shape.service'
 
 @NgModule({
   declarations: [
-    AppComponent
+    AppComponent,
+    MapComponent,
   ],
   imports: [
-    BrowserModule
+    BrowserModule,
+    HttpClientModule,
   ],
-  providers: [],
+  providers: [
+    MarkerService,
+    PopupService,
+    ShapeService
+  ],
   bootstrap: [AppComponent]
 })
 export class AppModule { }
