@@ -6,7 +6,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 Test OpenStreetMap implementation in an Angular projet with Leaflet library.
 [The demo page of this repo.](https://peanuts-83.github.io/maps_nice/)
-You can check my blog dedicated page for further informations on how to build the project from scratch. All detailled informations can be found in the references sites below.
+You can check [my blog dedicated page](https://nextjs-blog-82qubzuku-peanuts-83.vercel.app/posts/openstreetmap) for further informations on how to build the project from scratch. All detailled informations can be found in the references sites below.
 
 **References :**
 * OpenStreetMap : [https://www.openstreetmap.org/#map=13/43.6962/7.3047](https://www.openstreetmap.org/#map=13/43.6962/7.3047)
