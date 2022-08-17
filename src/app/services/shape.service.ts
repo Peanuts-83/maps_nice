@@ -5,7 +5,7 @@ import { Injectable } from '@angular/core';
   providedIn: 'root'
 })
 export class ShapeService {
-  private shapes: string = '/assets/data/limit_cities.geojson'
+  private shapes: string = 'assets/data/limit_cities.geojson'
 
   constructor(private http: HttpClient) { }
 

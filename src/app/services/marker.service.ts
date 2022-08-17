@@ -9,7 +9,7 @@ import * as L from 'leaflet'
 })
 export class MarkerService {
   // Get data form geojson file
-  public ports: string = '/assets/data/localisation-des-ports.geojson'
+  public ports: string = 'assets/data/localisation-des-ports.geojson'
 
   // Use HttpClient to manage get request & subsrcription
   // Use PopupService to add it to MarkerService
